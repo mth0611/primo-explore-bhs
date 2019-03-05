@@ -1,3 +1,5 @@
+# primo-explore-bhs has been consolidated into the monorepo [primo-explore-views](https://github.com/NYULibraries/primo-explore-views)
+
 [![Github commits (since latest release)](https://img.shields.io/github/commits-since/NYULibraries/primo-explore-bhs/latest.svg)](https://github.com/NYULibraries/primo-explore-bhs/releases/latest)
 # BHS Primo-explore package
 
